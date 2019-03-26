@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Net.Http.Headers;
 using System.Threading;
 using UnityEditor;
 using UnityEngine;
@@ -225,6 +224,7 @@ public class BuildCommand : MonoBehaviour {
         });
         t.Start();
     }
+
 
     [MenuItem("Build/7. Test Zip")]
     static void Test() {
