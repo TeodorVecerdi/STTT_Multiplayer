@@ -434,8 +434,6 @@ modules.xml
 ### Unity ###
 [Ll]ibrary/
 [Tt]emp/
-[Bb]uild/
-[Bb]uilds/
 [Ll]ogs/
 
 # Never ignore Asset meta data
